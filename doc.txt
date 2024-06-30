@@ -1,0 +1,6 @@
+python download
+
+add to vscode cmd + shift + p
+python:select interpreter recommanded
+
+python3 --version
