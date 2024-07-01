@@ -4,3 +4,84 @@ add to vscode cmd + shift + p
 python:select interpreter recommanded
 
 python3 --version
+which python3 => location
+python3 => cmd line
+
+anaconda
+https://www.anaconda.com/
+
+
+python indentation is no starting line space
+
+>>> 2 + 2
+4
+>>> name = "Kamal"
+>>> name
+'Kamal'
+>>> 2-1
+1
+>>> 2*3
+6
+>>> 25/4
+6.25
+>>> 25//4
+6
+>>> 25%4
+1
+>>> 25%4
+1
+>>> a = 15
+>>> a
+15
+>>> a = a + 1
+>>> a
+16
+>>> a =+ 1
+>>> a
+1
+>>> a += 1
+>>> a
+2
+>>> b  = 60
+>>> b /= 2
+>>> b
+30.0
+>>> round(b)
+30
+>>> b = round(b)
+>>> b
+30
+>>> b
+30
+>>> "kamal" + "M"
+'kamalM'
+>>> "kamal" + " " + "M"
+'kamal M'
+>>> 40 === 50
+  File "<stdin>", line 1
+    40 === 50
+         ^
+SyntaxError: invalid syntax
+>>> 40 == 50
+False
+>>> 40 != 50
+True
+>>> 40 != 40
+False
+>>> 20 > 10
+True
+>>> 20 < 10
+False
+>>> 20 <= 10
+False
+>>> 20 <= 20
+True
+>>> x = True
+>>> y = False
+>>> not x
+False
+>>> not y
+True
+>>> x and y
+False
+>>>
